@@ -17,3 +17,25 @@
       * [278 开心消消乐](choice100/278_have-fun.md)
     * 200分题
     * 其他100分题
+      * [001 AI识别面板](others100/001_AI-recognition-panel.md)
+      
+      * [002 GPU调度](others100\002-GPU scheduling.md) 
+      
+      * [003-IPv4地址转换](others100\003-convert IPv4 addresses to integers.md) 
+      
+      * [004-MVP争夺战](others100\004-MVP race.md) 
+      
+      * [005_N进制减法](others100\005_N decimal subtraction.md) 
+      
+      * [006_RSA加密算法](others100\006_RSA encryption algorithm.md) 
+      
+      * [007_TLV编码](others100\007_TLV code.md) 
+      
+      * [008_VLAN资源池](others100\008_VLAN resource pool.md) 
+      
+      * [009_We Are A Team](others100\009_We Are A Team.md) 
+      
+      * [141_构成的正方形数量](others100\141_Number of squares.md) 
+      
+        
+
